@@ -17,4 +17,7 @@ if(x>5){
 const a = 2;
 console.log(a);
 
-// a = 2;  burada hata verir cunku bir daha deger atanamaz 
+// a = 2;  burada hata verir cunku bir daha deger atanamaz
+
+// Bir variable tipine bakma
+console.log(typeof a);

@@ -3,16 +3,13 @@
 let age = 19;
 let country = "Poland"
 
-if (age > 18 && country == "Poland"){
+if (age > 18 && country == "Poland") {
     console.log("You are an adult")
-}
-else if (age >= 16){
+} else if (age >= 16) {
     console.log("You are a teenager")
-}
-else{
+} else {
     console.log("You are Minor")
 }
-
 
 
 // SWITCH
